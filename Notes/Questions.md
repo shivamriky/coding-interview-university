@@ -1,0 +1,3 @@
+## Questions/Things to lookup
+- How does the application memory look like in Python and Java? Like heap, stack ...
+-

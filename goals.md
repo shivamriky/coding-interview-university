@@ -6,7 +6,7 @@
 
 
 ## Next Steps
-- Complete Trees
+- Complete Binary Search Tree Section
 
 
 ## Goals
@@ -15,15 +15,20 @@
 - [ ] Implement AVL, and Red black Trees
 - [ ] Read about B-Trees
 - [ ] Practice 5 questions on Trees
-- [ ] Practice 5 more questions on trees]
+- [ ] Practice 5 more questions on trees
 
 
 ## Updates after each session
+
 <details>
 <summary>Week 7-13 September </summary>
-- 2 leetcode Questions
+- Complete Trees - Notes and Backgrounds
+- Impletmented BST with insert, height, min, max, print methods
+- 2 leetcode Questions on Trees
 </details>
+
+
 <details>
 <summary>Week 14-20 September </summary>
-- 2 leetcode Questions
+-
 </details>
