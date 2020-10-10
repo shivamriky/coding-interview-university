@@ -1,0 +1,16 @@
+- K- way merge can use heaps, important in log based streams
+- Dijsktra, Prim, Huffman, Heap sort uses an heap/priority queues
+- O(lg n) for both insertion and removal of max
+- GetMax in O(1)
+- Sift_up (process of moving up to the root if heap property is violated)
+- sift down - swap the problematic node with the larger child
+- change priority - sift up or down after changing the priority and comparing old and new values
+- remove - change priority to infinity, element reaches the top, then remove max
+- remove max - swap with a leaf and sift down
+- Important - Heap is a complete binary tree, all leaf on left side as possible and other levels are full except the last level
+- Less than half of the elements of the tree are not leaf nodes i.e we only need to heapify from length//2 (from i = length//2 to 0)
+- sift_up and sift_down can be used to solve any heap Problems
+- size of the array can be maintained as a separate variable which controls the number of elements in the heap, it can be different from number of elements in the array
+- extracting all the max elements from the heap sorts the array in reverse order i.e ascending for a max heap
+- number of non-leaf nodes in a tree <= length//2
+- Heapify takes O(nlogn) but since half of the elements of the heap are not processed(leaf nodes), n/4 elements are processed with height 1, as they only have one child. Considering this, the time complexity comes down to O(n)

@@ -10,13 +10,13 @@
 
 
 ## Goals
-- [ ] Complete the Binary Search Trees section
-- [ ] Complete the Heap section
+- [x] Complete the Binary Search Trees section
+- [x] Complete the Heap section
 - [ ] Implement AVL, and Red black Trees
-- [ ] Read about B-Trees
+- [x] Read about B-Trees
 - [ ] Practice 5 questions on Trees
 - [ ] Practice 5 more questions on trees
-
+- [ ] Learn about K-way merge using the heap
 
 ## Updates after each session
 
@@ -30,5 +30,20 @@
 
 <details>
 <summary>Week 14-20 September </summary>
--
+- no work done
+</details>
+
+<details>
+<summary>Week 21-27 September </summary>
+- Implemented deletion of a node in BST
+- Implemented whether a tree is valid binary tree or not
+- Watched 3 heap videos.
+- Completed heap videos
+</details>
+
+
+<details>
+<summary>Week 2-9 October</summary>
+- Read B trees, Splay trees and Red black trees
+- Implemented 2 leetcode questions
 </details>
